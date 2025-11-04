@@ -3,18 +3,18 @@
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
+	font-variant: small-caps;
 	text-align: center;
 	text-transform: lowercase;
-	font-variant: small-caps;
 }
 
 section[epub|type~="dedication"] b{
+	display: inline-block;
+	font-variant: initial;
+	margin-bottom: 1em;
+	margin-top: 1em;
 	text-align: center;
 	text-transform: uppercase;
-	font-variant: initial;
-	display: inline-block;
-	margin-top: 1em;
-	margin-bottom: 1em;
 }
 
 section[epub|type~="dedication"] > *{
