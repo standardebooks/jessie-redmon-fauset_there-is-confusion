@@ -151,3 +151,12 @@ p span.i2{
 	font-style: italic;
 	text-align: center;
 }
+
+#chapter-14 blockquote{
+	text-align: center;
+}
+
+#chapter-14 blockquote:first-of-type,
+#chapter-14 b{
+	text-transform: uppercase;
+}
