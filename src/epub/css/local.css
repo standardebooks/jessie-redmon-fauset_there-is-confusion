@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+q,
 blockquote[xml|lang]{
 	font-style: italic;
 }
@@ -154,7 +155,10 @@ footer{
 	text-align: center;
 }
 
-#chapter-14 blockquote:first-of-type,
-#chapter-14 b{
+#chapter-14 blockquote:first-of-type{
 	text-transform: uppercase;
+}
+
+#chapter-14 b{
+	font-variant: small-caps;
 }
