@@ -44,7 +44,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/There_Is_Confusion</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000389422</dc:source>
-		<meta property="se:word-count">87664</meta>
+		<meta property="se:word-count">85192</meta>
 		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jessie-redmon-fauset_there-is-confusion</meta>
 		<dc:creator id="author">Jessie Redmon Fauset</dc:creator>
